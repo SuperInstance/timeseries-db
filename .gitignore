@@ -1,0 +1,26 @@
+# Rust
+/target
+**/*.rs.bk
+*.pdb
+Cargo.lock
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Database files
+data/
+*.db
+*.sst
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Test temporary files
+*.tmp
+temp/
